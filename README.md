@@ -1,4 +1,5 @@
-todo
-====
+# [Benjamin Lupton's](http://balupton.com) Todo List
 
-Benjamin Lupton's todo list
+- [Add a new todo](https://github.com/balupton/todo/issues/new)
+- [View todos](https://github.com/balupton/todo/issues)
+- [Organise todos](https://huboard.com/balupton/todo)
