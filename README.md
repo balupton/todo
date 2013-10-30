@@ -18,6 +18,6 @@
 I'm a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
 
 - [Ideas are not copyrightable.](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide)
-- Unless stated otherwise, all works created by [Benjamin Lupton](http://balupton.com) <b@lupton.cc> are:
+- Unless stated otherwise, all works created by myself are:
 	- Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/) for code
 	- Licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) for everything else
