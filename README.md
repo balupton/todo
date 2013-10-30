@@ -6,8 +6,7 @@
 - [View milestones](https://huboard.com/balupton/todo/backlog)
 - [View results](https://github.com/balupton/todo/pulse)
 
-
-## Similar Projects
+Similar Projects
 
 - [ideashare/ideas](https://github.com/ideashare/ideas)
 - [balupton/learnings](https://github.com/balupton/learnings)
