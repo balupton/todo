@@ -15,8 +15,7 @@
 
 ## License
 
-[Benjamin Lupton](http://balupton.com) <b@lupton.cc> is a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
+I am a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
 
-- [Ideas are not copyrightable](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide)
-- [MIT License](http://creativecommons.org/licenses/MIT/) for code
-- [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) for everything else
+- [Ideas are not copyrightable.](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide)
+- Unless stated otherwise; all works are Copyright © [Benjamin Lupton](http://balupton.com) <b@lupton.cc> and licensed [permissively](http://en.wikipedia.org/wiki/Permissive_free_software_licence) under the [MIT License](http://creativecommons.org/licenses/MIT/) for code and the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) for everything else.
