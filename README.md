@@ -15,7 +15,7 @@
 
 ## License
 
-I'm a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
+[Benjamin Lupton](http://balupton.com) <b@lupton.cc> is a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
 
 - [Ideas are not copyrightable](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide)
 - [MIT License](http://creativecommons.org/licenses/MIT/) for code
