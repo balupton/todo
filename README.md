@@ -18,7 +18,7 @@
 I'm a signer of the [Open Information Pledge](https://gist.github.com/balupton/6937426). Read that, respect that. TLDR:
 
 - [Ideas are not copyrightable.](http://en.wikipedia.org/wiki/Idea%E2%80%93expression_divide)
-- Unless stated otherwise
+- Unless stated otherwise;
 	- All works are Copyright © 2011+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
 	- Works of code are licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
 	- Other works are licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
