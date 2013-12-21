@@ -1,3 +1,11 @@
+__Update:__ As it was too much effort to maintain this listing, as as a todo list that is constantly changing, github issues is not the best interface (whereas for long-term tasks it is great), I am now trialling [Workflowy](https://workflowy.com/), which fortunately, has public sharing. You can view my Workflowy todos here:
+
+- [Work](https://workflowy.com/shared/b430c6e6-b16a-9256-27eb-0ac80a27accb/)
+- [Personal](https://workflowy.com/shared/1436cd9c-71bd-7cf2-fc33-f9a6ab4fc169/)
+
+
+---
+
 # [Benjamin Lupton's](http://balupton.com) Todo List
 
 - [New todo](https://github.com/balupton/todo/issues/new)
