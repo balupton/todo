@@ -1,8 +1,6 @@
-__Update:__ As it was too difficult to maintain this listing — GitHub Issues turns out to not be the best interface for constantly changing everyday tasks, whereas for long-term tasks it is great — I am now trialling [Workflowy](https://workflowy.com/), which fortunately, has public sharing! <br/>
-You can view my Workflowy todos here:
+__Update:__ As it was too difficult to maintain this listing — GitHub Issues turns out to not be the best interface for constantly changing everyday tasks, whereas for long-term tasks it is great — I am now trialling [WorkFlowy](https://workflowy.com/), which fortunately, has public sharing!
 
-- [Work](https://workflowy.com/shared/b430c6e6-b16a-9256-27eb-0ac80a27accb/)
-- [Personal](https://workflowy.com/shared/1436cd9c-71bd-7cf2-fc33-f9a6ab4fc169/)
+[View my WorkFlowy todos here.](https://workflowy.com/shared/1436cd9c-71bd-7cf2-fc33-f9a6ab4fc169/)
 
 
 ---
